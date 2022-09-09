@@ -1,5 +1,5 @@
 # WingetTest
-wingetの検証用
+wingetで複数のソフトを簡単にインストールする検証用
 
 [このツイート](https://twitter.com/mkc1370/status/1567036982215450625)
 
